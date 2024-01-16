@@ -6,7 +6,7 @@ Bem-vindo à Plataforma de Ensino EAD, esse projeto tem como objetivo oferece um
 Este projeto é uma prática dedicada à implementação de microservices, uma arquitetura que separa os componentes em serviços independentes, favorecendo escalabilidade, manutenção e evolução constante. 
 Cada funcionalidade da plataforma é abordada como um serviço independente, promovendo flexibilidade e isolamento de responsabilidades.
 
-##Sobre a API
+## Sobre a API
 Implementação de um serviço de registro que monitora e armazena as instâncias e localizações dos microservices, possibilitando a descoberta dinâmica desses services pelos clients.
 
 ## Tecnologias utilizadas
