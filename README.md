@@ -3,7 +3,8 @@
 ## Sobre o projeto
 Bem-vindo à Plataforma de Ensino EAD, esse projeto tem como objetivo oferece uma solução moderna para a gestão de ensino online.
 
-Este projeto é uma prática dedicada à implementação de microservices, uma arquitetura que separa os componentes em serviços independentes, favorecendo escalabilidade, manutenção e evolução constante. 
+Este projeto é uma prática dedicada à implementação dos principais padrões utilizados em microservices.
+
 Cada funcionalidade da plataforma é abordada como um serviço independente, promovendo flexibilidade e isolamento de responsabilidades.
 
 ## Sobre a API
